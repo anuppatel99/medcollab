@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif');
+@import url('https://fonts.googleapis.com/css?family=Comfortaa|Cuprum');
+
+.col-sm-6{
+    align: center;
+}
+.tagline2{
+    font-size: 25px;
+    text-align: center;
+    font-family: 'IM Fell English SC', serif;
+}
+.tagline{
+    color:black;
+    display: block;
+    padding-left: 70px;
+    font-size: 20px;
+}
+.btn-primary{
+    color: white;
+    height: 50px;
+    width: 150px;
+    border: black;
+}
+
+.content_image{
+    height: 200px;
+    float: right;
+    margin-top: 0px;
+    display: inline;
+}
+
+.middle_portion{
+    height: 450px;
+}
+.image_header{
+    height: 59px;
+    width: 59px;
+    display: inline;
+}
+h1{
+    color: black;
+    font-family: 'IM Fell English SC', serif;
+    font-size: 40px;
+    display: inline;
+}
+h2{
+    color: black;
+    opacity: 0.8;
+    font-size: 35px;
+}
+.logo_image{
+    height: 100px;
+    width: 100px; 
+}
+small{
+    font-family: 'Cuprum', sans-serif;
+    color: black;
+    font-size:20px;
+    opacity: 0.8;
+
+}
